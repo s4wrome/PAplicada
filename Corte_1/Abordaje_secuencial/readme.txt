@@ -1,0 +1,1 @@
+se implementaran códigos secuenciales.
